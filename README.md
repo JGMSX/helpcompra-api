@@ -1,6 +1,6 @@
 # HelpCompra API
 
-API REST em **Spring Boot** para manutenção de produtos, categorias e listas de compras de supermercado. É a evolução do [helpcompra](https://github.com/JGMSX/helpcompra), que era um CRUD de console em Java: o mesmo domínio (produtos por unidade e por quilo, totais e limite de gastos), agora com persistência em banco relacional e endpoints HTTP.
+API REST em **Spring Boot** para lista de compra em supermercado (manutenção de produtos, categorias e listas de compras). É a evolução do [helpcompra](https://github.com/JGMSX/helpcompra), que era um CRUD de console em Java: o mesmo domínio (produtos por unidade e por quilo, totais e limite de gastos), agora com persistência em banco relacional e endpoints HTTP.
 
 ## Requisitos atendidos
 
